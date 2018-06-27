@@ -35,7 +35,7 @@ def class_counts(rows):
 
 ###
 # Demo:
-class_counts(training_data_)
+class_counts(training_data)
 ###
 
 def is_numeric(value):
